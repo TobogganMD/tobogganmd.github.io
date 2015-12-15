@@ -1,0 +1,17 @@
+p {
+	padding: 0 auto;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+html {
+	background-color: black;
+}
+
+body {
+	background-color: purple;
+	margin: 0 auto;
+	border: solid 3px black;
+}
