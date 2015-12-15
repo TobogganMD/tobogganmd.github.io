@@ -14,6 +14,6 @@ if (!localStorage.getItem('name')) {
 	myHeading.textContent = 'Hello, ' + storedName;
 }
 
-myButton.onClick = function() {
+myButton.onclick = function() {
 	setName();
 }
